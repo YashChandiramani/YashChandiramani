@@ -1,15 +1,12 @@
+<img align="right" src="transition.svg" width="260" alt="Yash Chandiramani" />
+
 # Hi there 👋 I'm Yash Chandiramani
 
 🎓 Computer Science Student
 
 💻 Passionate about Artificial Intelligence, Machine Learning and Deep Learning.
 
----
-
-<p align="center">
-  <img src="transition.svg" width="400" alt="Profile photo" />
-</p>
----
+<br clear="right"/>
 
 ## 🚀 About Me
 
