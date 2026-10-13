@@ -2,7 +2,7 @@
 
 🎓 Computer Science Student
 
-💻 Passionate about Artificial Intelligence, Machine Learning and Full Stack Development.
+💻 Passionate about Artificial Intelligence, Machine Learning and Deep Learning.
 
 ---
 
