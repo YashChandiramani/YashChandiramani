@@ -4,10 +4,11 @@
 
 🎓 Computer Science Student
 
-💻 CS student by day, AI builder by night. I turn data into 
-   predictions and models into working web apps. 
-   Currently learning deep learning, exploring MLOps, 
-   and always curious about what to build next. 🚀
+💻 CS student by day, AI builder by night. 
+   I turn data into predictions and models 
+   into working web apps. Currently learning deep 
+   learning, exploring MLOps, and always 
+   curious about what to build next. 🚀
 
 <br clear="right"/>
 
