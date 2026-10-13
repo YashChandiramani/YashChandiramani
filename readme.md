@@ -6,6 +6,11 @@
 
 ---
 
+<p align="center">
+  <img src="transition.svg" width="400" alt="Profile photo" />
+</p>
+---
+
 ## 🚀 About Me
 
 - 🌱 Currently learning Machine Learning and Deep Learning
