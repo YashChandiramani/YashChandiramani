@@ -39,10 +39,27 @@
 
 ## 📂 Featured Projects
 
+### 💖 ECG Noise Analyser
+Deep Learning project that classifies whether the obtained ECG signal has noise or is it a clean ECG Signal, model used are ResNet-18, 1D-CNN.
+**Tech Used**
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![ResNet-18](https://img.shields.io/badge/ResNet--18-8E44AD?style=for-the-badge)
+![1D-CNN](https://img.shields.io/badge/1D--CNN-2C3E50?style=for-the-badge)
+![CWT](https://img.shields.io/badge/Continuous_Wavelet_Transform-16A085?style=for-the-badge)
+![PyWavelets](https://img.shields.io/badge/PyWavelets-0B7285?style=for-the-badge)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+
+
 ### 🎓 Student Performance Prediction
 Machine Learning project that predicts student exam scores based on academic performance, digital habits, mental health, lifestyle and environmental factors.
 
 **Tech Used**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -58,6 +75,7 @@ Machine Learning project that predicts student exam scores based on academic per
 A complete web application for managing vehicle service bookings with customer and employee dashboards.
 
 **Tech Used**
+
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
